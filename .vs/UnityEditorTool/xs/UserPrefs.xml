@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{17B7D741-E3A7-A415-756F-20A65AA84680}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/UIElement/QuickTool.cs">
+    <Files>
+      <File FileName="Assets/Editor/UIElement/QuickTool_Main.uxml" Line="11" Column="40" />
+      <File FileName="Assets/Editor/UIElement/ButtonTemplate.uxml" Line="7" Column="8" />
+      <File FileName="Assets/Editor/UIElement/QuickTool_Style.uss" Line="30" Column="2" />
+      <File FileName="Assets/Editor/UIElement/QuickTool.cs" Line="22" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityEditorTool" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UnityEditorTool" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dc037154-dfcd-4b84-aaa5-08d701485a24" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
