@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Character.cs" />
+    <Compile Include="Assets\Scripts\OnInspectorGUI\BaseInspectorGUITest.cs" />
+    <Compile Include="Assets\Scripts\OnSceneGUI\BaseSceneGUITest.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jy/UnityProject/UnityEditorTool/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
