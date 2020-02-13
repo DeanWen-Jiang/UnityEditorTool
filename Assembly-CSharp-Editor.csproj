@@ -64,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\AssetPostprocessor\SpriteProcessor.cs" />
-    <Compile Include="Assets\Editor\EditorWindow\OnGUI\BaseEditor.cs" />
     <Compile Include="Assets\Editor\EditorWindow\OnGUI\BaseEditorWindow.cs" />
     <Compile Include="Assets\Editor\OnInspectorGUI\BaseInspectorGUI.cs" />
     <Compile Include="Assets\Editor\OnSceneGUI\BaseSceneGUI.cs" />
